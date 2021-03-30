@@ -1,4 +1,4 @@
-#Website Issues
+# Website Issues
 
 Figuring out the website was pretty easy, I based my code off of your set-up from in-class, and just added a gif.
 
