@@ -10,4 +10,7 @@ Using a css sheet from W3schools, we were able to get a very basic text format, 
 
 By the end, we did get into a bit of a scramble where Andrew had to insert his paragraph directly through the main since we didn't have enough time to go through his branch.
 
-Additionally, I've been having trouble getting a picture to load and am currently still working on it. We simply ran out of time, but a nice 
+Additionally, I've been having trouble getting a picture to load and am currently still working on it. We simply ran out of time, but the issue was just getting the correct source link to a photo that loaded properly! Easy fix and now the website is good to go!
+
+TL;DR:
+Branches are very difficult when relying on other people to work on such a small project, because it's not very different than just waiting for the person to push main. 90% of our time was just figuring out the merge requests!
