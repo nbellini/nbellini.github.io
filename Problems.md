@@ -1,11 +1,13 @@
 # Website Issues
 
-Figuring out the website was pretty easy, I based my code off of your set-up from in-class, and just added a gif.
+Okay so it was pretty fun and chaotic to work together using branches this way.
 
-I had to use this site to find out how to add a gif in html:
-https://www-it.fmi.uni-sofia.bg/courses/maten/module1/activity32.html
+We had difficulties non-stop just from going over how to clone my repository, to setting up our branches, to figuring out especially the flow of merge requests to the main.
 
-I had initially tried it by inserting a URL, but remembered you said assets have to be in the folder to pull from, so I saved and uploaded my gif.
+One thing that I had to figure out as the owner of the repository was that I had to approve merge requests, including going in and removing coding errors to allow the merge. However, once I got the hang of it - about 40 minutes in - we were able to get the ball rolling.
 
-Thanks!
-Nikki
+Using a css sheet from W3schools, we were able to get a very basic text format, and used that as one of our assets. We divided an conquered while I was working on the css sheet and figuring out merging with Chris, Raja and Andrew were able to create our audio and visual files for our assets.
+
+By the end, we did get into a bit of a scramble where Andrew had to insert his paragraph directly through the main since we didn't have enough time to go through his branch.
+
+Additionally, I've been having trouble getting a picture to load and am currently still working on it. We simply ran out of time, but a nice 
