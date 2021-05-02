@@ -26,6 +26,11 @@ body, html {
   padding: 16px;
 }
 
+div {
+  display: flex;
+  justify-content: space-evenly;
+}
+
 </style>
 <body>
 
@@ -179,7 +184,9 @@ body, html {
 </div>
 
 <!-- Work Section -->
-<div class="spreadevenly">
+div {
+  display: flex;
+  justify-content: center;
   <div class="w3-container" style="padding:128px 16px" id="work">
     <h3 class="w3-center">OUR PORTFOLIO</h3>
     <p class="w3-center w3-large">Our Featured Works</p>
@@ -236,7 +243,7 @@ body, html {
       </div>
     </div>
   </div>
-
+  }
   <!-- Modal for full size images on click-->
   <div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
     <span class="w3-button w3-xxlarge w3-black w3-padding-large w3-display-topright" title="Close Modal Image">×</span>
