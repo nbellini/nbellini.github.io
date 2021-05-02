@@ -1,0 +1,7 @@
+div.spread2evenly > div {
+    display: inline-block;
+    *display: inline; /* For IE7 */
+    zoom: 1; /* Trigger hasLayout */
+    width: 50%;
+    text-align: center;
+}
