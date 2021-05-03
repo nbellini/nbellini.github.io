@@ -11,7 +11,7 @@ A difficulty is that I will have to learn Swift to code in it, but apparently it
 ## Code
 Assuming this will work, I'm going to start thinking through what I want coded.
 
-First, there will need to be an engine that you can enter your parameters into. There parameters would include:
+First, there will need to be an engine that you can enter your parameters into. These parameters would include:
 - Title of goal
 - Length of goal (start/end dates)
 - Frequency of Reminders
@@ -29,13 +29,13 @@ start date = date(input("mm/dd/yyyy"))
 end date = date(input("mm/dd/yyy"))
 length = ({end date} - {start date})
 I'll need to look up the swift code to convey what I mean above.
-If this gets to difficult, I may change it to:
-length = int(input("Enter how many days you'd like your project will last: "))
+If this gets too difficult, I may change it to:
+length = int(input("Enter how many days you'd like your project to last: "))
 
 Frequency:
 reminders = int(input("Please enter the amount of times you would like to get reminded a week: "))
 
-I'll need to figure out how to use this number to take ({length}/x times a wee
+I'll need to figure out how to use this number to take {length}/x times a week
 
 Maybe, if I do the second length idea, I can just do:
 frequency = (({length}/7)*{reminders})
@@ -79,7 +79,7 @@ Got the time entry to work though I'm having difficulty getting it to work past 
 Alright, so after meeting with you, I've decided to switch to building an HTML website since I don't think I'll be able to turn around this API with enough satisfaction or time. So, that being said...
 
 # PROJECT 2: The website
-I'll be building an html website for an upcoming songwriters collective I'll be building in Nashville post-grad.
+I'll be building an html website for an upcoming songwriters collective I'll be starting in Nashville post-grad.
 
 To start, I'll have to wipe clear what I have on it currently, and get started with a styles sheet.
 
@@ -95,7 +95,7 @@ And here's what it looks like: https://www.w3schools.com/w3css/tryw3css_template
 ## Assets
 
 ### General
-Now I just get to start messing around importing assets for my business start-up.
+Now I just need to start messing around importing assets for my business start-up.
 
 Having a lot of fun so far, renamed the title and am working on adding a background photo to the website. I'm also gathering our assets such as examples of work, images, a logo for the group, and pictures of the team!
 
