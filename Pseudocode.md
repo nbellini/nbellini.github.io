@@ -123,7 +123,7 @@ This is the second asset I have done!
 ### Social links
 Adding these now, I figure I'll just work with the code around the social buttons and add href links. I've tried several things so far, adding the code within the (a) and (/a), (link), and href but so far no luck getting the links to actually hyperlink with the social buttons. After a lot of trial and error, I figured out to just switch the (i) to (a) and add an href link!
 
-I also had to make sure to edit the bottom socials as well. I figured out how to add the SoundCloud social by altering the template as well. I'll make the coding change as above as well.
+I also had to make sure to edit the bottom socials as well. I figured out how to add the SoundCloud social by altering the template and I'll also change the coding like  above.
 
 Changing the padding so it's visible unlike how the socials currently sit on the edge of the picture. It looks great I'm so excited.
 
